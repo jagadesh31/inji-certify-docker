@@ -1,23 +1,22 @@
 {
-  "assertionMethod": [
-    "did:web:localhost:farmer"
-  ],
-  "service": [],
-  "id": "did:web:localhost:farmer",
-  "verificationMethod": [
-    {
-      "publicKeyMultibase": "z6Mknj75KBbD9mSJUX6HQZGK5TFGiWV7TMmfqsw4BULzNq83",
-      "controller": "did:web:localhost:farmer",
-      "id": "did:web:localhost:farmer#FdI7ovbAlzWTTVcbKHAY42lXgh2dm7MmyvVEvkajuH8",
-      "type": "Ed25519VerificationKey2020",
-      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
-    }
-  ],
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
+  "id": "did:web:jagadesh31.github.io:inji-certify-docker",
   "alsoKnownAs": [],
+  "assertionMethod": [
+    "did:web:jagadesh31.github.io:inji-certify-docker#key-1"
+  ],
   "authentication": [
-    "did:web:localhost:farmer"
+    "did:web:jagadesh31.github.io:inji-certify-docker#key-1"
+  ],
+  "service": [],
+  "verificationMethod": [
+    {
+      "id": "did:web:jagadesh31.github.io:inji-certify-docker#key-1",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:web:jagadesh31.github.io:inji-certify-docker",
+      "publicKeyMultibase": "z6Mknj75KBbD9mSJUX6HQZGK5TFGiWV7TMmfqsw4BULzNq83"
+    }
   ]
 }
