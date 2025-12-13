@@ -6,7 +6,7 @@
   "id": "did:web:jagadesh31.github.io:inji-certify-docker",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkpjSaXufgeZAsF2L9eEPbDm7trrgmYg9kHVhHQXdrv5ZE",
+      "publicKeyMultibase": "z6MkiMqckWG4ibcgNB5jS9HfDoy4VoFFS8P6wWx1TD9Ui1eD",
       "controller": "did:web:jagadesh31.github.io:inji-certify-docker",
       "id": "did:web:jagadesh31.github.io:inji-certify-docker#DekMmnwQMDZsEMKSQWLB8TnpzqSW1pog0fDqmIQIO1A",
       "type": "Ed25519VerificationKey2020",
