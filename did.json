@@ -6,9 +6,9 @@
   "id": "did:web:jagadesh31.github.io:inji-certify-docker",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkncjBL4DGB1y4djDWpcLDXYqjexbvBaqL52xEumcAP6zh",
+      "publicKeyMultibase": "z6MkvVKLkiQdmBGtggS23ycGnRBygEeEiEKAJkq7QoggZNnN",
       "controller": "did:web:jagadesh31.github.io:inji-certify-docker",
-      "id": "did:web:jagadesh31.github.io:inji-certify-docker#6C0zzZ4vDJbP3Q_8bxee8Qif4I68AsNkak0ESJ4orfI",
+      "id": "did:web:jagadesh31.github.io:inji-certify-docker#1M-DkeWbZkXE8RMLB5YyTP0E3Q9JyIB_hkFxZb2n_dk",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
